@@ -47,7 +47,7 @@ simplejson==3.16.0
 six==1.12.0
 sklearn==0.0
 sqlparse==0.3.0
-Twisted==19.2.1
+Twisted==22.4.0
 uritemplate==3.0.0
 urllib3==1.25.3
 uWSGI==2.0.18
