@@ -22,7 +22,7 @@ idna==2.8
 incremental==17.5.0
 itypes==1.1.0
 Jinja2==2.10.1
-joblib==0.13.2
+joblib==1.2.0
 jsonfield2==3.0.2
 lxml==4.3.4
 MarkupSafe==1.1.1
